@@ -4,7 +4,7 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for clinical affairs lovers who want to learn about their
+  Terumo BCT is the ultimate spot for clinical affairs lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take clinical affairs production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
