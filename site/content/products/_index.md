@@ -1,23 +1,23 @@
 ---
-title: Our Coffee
+title: Our clinical affairs
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
+  Kaldi is the ultimate spot for clinical affairs lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take clinical affairs production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/illustrations-clinical affairs.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
+        We sell green and roasted clinical affairs beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
+        variety of clinical affairs beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/illustrations-clinical affairs-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
@@ -25,67 +25,67 @@ intro:
         to fall in love with in our shop.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
+        Love a great cup of clinical affairs, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
+        to learn anything you want to know about clinical affairs roasting and brewing.
         Email us or call the store for details.
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
+        We believe that good clinical affairs has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
+        space where you can hang out with fellow clinical affairs lovers and learn about
+        clinical affairs making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
+    Kaldi is the ultimate spot for clinical affairs lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take clinical affairs
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Great clinical affairs with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
+    We hold our clinical affairs to the highest standards from the shrub to the cup.
+    That’s why we’re meticulous and transparent about each step of the clinical affairs’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A close-up of a paper filter filled with ground clinical affairs
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: A green cup of a clinical affairs on a wooden table
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: clinical affairs beans
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      The first time I tried Kaldi’s clinical affairs, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
+      Kaldi is the place to go if you want the best quality clinical affairs. I love their
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
+    We make it easy to make great clinical affairs a part of your life. Choose one of our
+    monthly subscription plans to receive great clinical affairs at your doorstep each
     month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
-        - 3 lbs of coffee per month
+        - 3 lbs of clinical affairs per month
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
       price: '50'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
-        - 6 lbs of coffee per month
+        - 6 lbs of clinical affairs per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
